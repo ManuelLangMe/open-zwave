@@ -899,7 +899,7 @@
 	<Manufacturer id="0003" name="Wrap">
 	</Manufacturer>
 	<Manufacturer id="004d" name="Xanboo">
-	</Manufacturer>	
+	</Manufacturer>
 	<Manufacturer id="0115" name="Z-Wave.Me">
 		<Product type="0001" id="0001" name="Z-Wave USB Stick"/>
 		<Product type="0001" id="0069" name="Key Fob" config="zwave.me/kfob.xml"/>
